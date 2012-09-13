@@ -119,6 +119,12 @@
 	</build>
 
 	<dependencies>
+		<!-- 淘宝SDK -->
+		<dependency>
+			<groupId>taobao-sdk-java</groupId>
+			<artifactId>taobao-sdk-java</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
@@ -131,12 +137,6 @@
 			<version>1.2</version>
 			<type>jar</type>
 			<scope>compile</scope>
-		</dependency>
-		<!-- 淘宝SDK -->
-		<dependency>
-			<groupId>com.taobao.sdk</groupId>
-			<artifactId>taobao-sdk-online-java</artifactId>
-			<version>20120511</version>
 		</dependency>
 		<!-- mysql -->
 		<dependency>
