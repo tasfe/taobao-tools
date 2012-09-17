@@ -2,7 +2,9 @@
 	1.针对淘宝店铺开发的CRM。
 
 应用功能说明
-	参考地址：http://fuwu.taobao.com/ser/detail.htm?spm=0.0.0.119.68b5e2&service_code=ts-11631
+	参考地址 http://fuwu.taobao.com/ser/detail.htm?spm=0.0.0.119.68b5e2&service_code=ts-11631
+			http://fuwu.taobao.com/ser/list.htm?key=crm&current=-1&tracelog=search
+			 
 	V_1.0功能说明
 		1.提供给卖家管理客户，可以挖掘潜在客户
 		2.对客户进行分类，比如：
